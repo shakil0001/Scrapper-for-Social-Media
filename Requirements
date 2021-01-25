@@ -1,0 +1,5 @@
+for chrome put chromedriver.exe into src file after extracting. and for firefox put geckodriver.log after extracting.
+openpyxl
+selenium
+tweepy
+install all the libraries.
